@@ -8,7 +8,7 @@ Jihye Han
 
 ### Education
 
-BS, IT Engineering, Sookmyung Women's University, 2022
+* BS, IT Engineering, Sookmyung Women's University, 2022
 
 
 ### Research Interest
