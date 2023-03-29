@@ -10,21 +10,26 @@
 ############################
 
 # Name of website
-title: My Website
+title: Jihye
 
 # Your name to show in the footer
-author: Some Person
+author: Jihye Han
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
+
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  #About Me: "aboutme"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
+  Home : "https://jihye-h.github.io/"
+  About Me : "aboutme"
+  Paper Reviews : "paper_review"
+  Projects : "projects"
 
 ################
 # --- Logo --- #
