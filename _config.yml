@@ -26,10 +26,10 @@ navbar-links:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
-  Home : "https://jihye-h.github.io/"
-  About Me : "aboutme"
-  Paper Reviews : "paper_review"
-  Projects : "projects"
+  Home: "https://jihye-h.github.io/"
+  About Me: "aboutme"
+  Paper Reviews: "paper_review"
+  Projects: "projects"
 
 ################
 # --- Logo --- #
